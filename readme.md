@@ -25,3 +25,6 @@ O(E log E) بسبب sorting
 ## conclusion
 
 kruskal is simple and works well for this problem
+
+## Author
+**Godfred Appiah Baah**
